@@ -1,7 +1,7 @@
 ---
 title: "Sorgone poster presentation"
 date: "January 28, 2021"
-excerpt: "Sorgone poster: a plant biology poster about over expression of "
+excerpt: "Sorgone poster: a plant biology poster about over expression of sorgoleone in planta."
 collection: portfolio
 ---
 
