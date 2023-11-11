@@ -16,7 +16,7 @@ Education
 
 * Msc science: Wageningen university and research, 2024 (expected).
 
-* Bsc science: Applied university of Arnhem Nijmegen, 2022.
+* Bsc science: HAN University of applied sciences, 2022.
 
   
 
