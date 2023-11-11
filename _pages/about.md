@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who is Sibbe Bakker?"
+title: "Hey!"
 excerpt: "I am a bioinformatics student with a good background in plant biology"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Hello there
 
 I am a bioinformatics student with a good background in plant biology. During
 my bachelor plant sciences at the HAN, I always enjoyed the data analysis phase
