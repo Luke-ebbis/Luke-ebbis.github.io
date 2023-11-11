@@ -9,6 +9,6 @@ At the HAN, to finalise the plant biotechnology course, I had to present a poste
 
 To me, it seemed like a fun idea to over express the mechanism that causes the allopathy, sorgoleone production. So I designed a concept cloning strategy to alter the production of this phytochemical:
 
-![Overview of *Sorgh*one.](images/sorghone_summary)
+<img src="images/sorghone_summary" alt="An overview of the benifits of Sorghone">
 
 The poster, typeset using the $\mathrm{\LaTeX}$ `beamer` package, can be viewed [here](https://git.wur.nl/sibbe.bakker/portfolio/-/raw/main/presentations/poster/bachelor/main.pdf?ref_type=heads&inline=false).
