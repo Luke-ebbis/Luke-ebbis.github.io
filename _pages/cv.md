@@ -9,20 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can also be downloaded [here](https://git.wur.nl/sibbe.bakker/portfolio/-/raw/main/curriculum_vitae/cv-sibbe_bakker.pdf?ref_type=heads&inline=false)
+My CV can also be downloaded [here](https://git.wur.nl/sibbe.bakker/portfolio/-/raw/main/curriculum_vitae/cv-sibbe_bakker.pdf?ref_type=heads&inline=false).
 
 Education
 ======
-
 * Msc science: Wageningen university and research, 2024 (expected).
 
 * Bsc science: HAN University of applied sciences, 2022.
 
-  
 
 Work experience
 ======
-* 2023 -- In process: **Msc thesis** *WUR genetics department*. Wageningen. <br>With supervision from Mariana Silva I am laying the ground work for the aspar_kr
+* 2023 -- In process. **Msc thesis** *WUR genetics department*. Wageningen. <br>With supervision from Mariana Silva I am laying the ground work for the aspar_kr
   data sharing system for researchers in the field of *Aspergillus fumigatus*. During this
   thesis I am contributing code to the FAIRDS project, a java programme to generate
   excel templates and convert them into a linked data format.
@@ -37,7 +35,6 @@ Work experience
   such as mixed models and PCA.
 
 # Skills
-
 ## Interpersonal
 
 Explaining
