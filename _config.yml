@@ -87,7 +87,7 @@ author:
   employer         : "Wageningen university"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "sibbe.bakker[at]wur.nl"
+  email            : "sibbe.bakker@wur.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/sibbe-bakker"
   orcid            : "https://orcid.org/0009-0001-0696-1684"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/15753558/sibbe-bakker
   steam            :
   tumblr           :
   # twitter          : "replacethistwitterhandle"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  gitlab           : sibbe.bakker
 
 
 # Reading Files
