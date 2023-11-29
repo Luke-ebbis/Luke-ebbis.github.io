@@ -13,4 +13,4 @@ To me, it seemed like a fun idea to over express the mechanism that causes the a
 
 <img src='/images/sorghone_summary.png'>
 
-The poster, typeset using the $\mathrm{\LaTeX}$ `beamer` package, can be viewed [here](https://git.wur.nl/sibbe.bakker/portfolio/-/raw/main/presentations/poster/bachelor/main.pdf?ref_type=heads&inline=false).
+The poster, typeset using the $\mathrm{\LaTeX}$ `beamer` package, can be viewed [here](https://git.wur.nl/sibbe.bakker/public-portfolio/-/raw/main/presentations/poster/bachelor/main.pdf?ref_type=heads&inline=false).

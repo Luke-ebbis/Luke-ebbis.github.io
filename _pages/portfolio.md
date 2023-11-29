@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My portfolio can also be found on [gitlab](https://git.wur.nl/sibbe.bakker/portfolio).
+My portfolio can also be found on [gitlab](https://git.wur.nl/sibbe.bakker/public-portfolio).
 
 {% include base_path %}  {% for post in site.portfolio %}  {% include archive-single.html %} {% endfor %}
-
 

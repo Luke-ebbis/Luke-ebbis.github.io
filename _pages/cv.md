@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can also be downloaded [here](https://git.wur.nl/sibbe.bakker/portfolio/-/raw/main/curriculum_vitae/cv-sibbe_bakker.pdf?ref_type=heads&inline=false).
+My CV can also be downloaded [here](https://git.wur.nl/sibbe.bakker/public-portfolio/-/raw/main/curriculum_vitae/cv-sibbe_bakker.pdf?ref_type=heads&inline=false).
 
 Education
 ======
