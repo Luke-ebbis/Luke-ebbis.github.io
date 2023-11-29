@@ -7,9 +7,7 @@ tags:
   - "Poster"
 ---
 
-At the HAN, to finalise the plant biotechnology course, I had to present a poster. For this assignment, we had to come up with a novel biotechnology concept and present it. Since I worked with *Sorghum bicolor* in the lab before, I knew that the plant has the ability to exude chemicals to control the soil microbiome, and plants growing around it. This is called allopathy. 
-
-To me, it seemed like a fun idea to over express the mechanism that causes the allopathy, sorgoleone production. So I designed a concept cloning strategy to alter the production of this phytochemical:
+At the HAN, to finalise the plant biotechnology course, I had to present a poster. For this assignment, we had to come up with a novel biotechnology concept and present it. Since I worked with *Sorghum bicolor* in the lab before, I knew that the plant has the ability to exude chemicals to control the soil microbiome, and plants growing around it. This is called _allopathy_. The benefits I envisioned are outlined below.
 
 <img src='/images/sorghone_summary.png'>
 
