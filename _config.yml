@@ -88,7 +88,7 @@ author:
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "sibbe.bakker@wur.nl"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Sibbe-Bakker"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0009-0001-0696-1684"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/15753558/sibbe-bakker
+  stackoverflow    : "15753558/sibbe-bakker"
   steam            :
   tumblr           :
   # twitter          : "replacethistwitterhandle"
