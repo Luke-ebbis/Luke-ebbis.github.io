@@ -15,9 +15,14 @@ of the lab work most. Because of this, I chose the bioinformatics study at the
 WUR. At the master, I always enjoyed the collaborative and interdisciplinary
 aspects of bioinformatics.
 
-Recently I finished my [Msc thesis](/portfolio/master-thesis-aspar) on finding
+Recently I have finished my internship project on the prediction of protein
+complexes under supervision of [Dirk
+Walther](https://www.mpimp-golm.mpg.de/9657/Dirk_Walther) at the Max Planck
+Institute for Plant Physology.
+
+I did my [Msc thesis](/portfolio/master-thesis-aspar) on finding
 a method to produce FAIR data from data collected from laboratory analysts in
-the Genetics department in Wageningen.  I presented my work at a [small
+the Genetics department in Wageningen.  I presented this work at a [small
 conference](https://luke-ebbis.github.io/talks/2023-11-03-aspar-kr). Currently
 I am writing an NWO-M1 grant to extend my work in the data sharing space.
 
