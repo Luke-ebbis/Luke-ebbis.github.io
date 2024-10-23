@@ -9,21 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can also be downloaded [here](https://git.wur.nl/sibbe.bakker/public-portfolio/-/raw/main/curriculum_vitae/cv-sibbe_bakker.pdf?ref_type=heads&inline=false).
+<!-- My CV can also be downloaded [here](https://git.wur.nl/sibbe.bakker/public-portfolio/-/raw/main/curriculum_vitae/cv-sibbe_bakker.pdf?ref_type=heads&inline=false). -->
 
 Education
 ======
-* Msc science: Wageningen university and research, 2024 (expected).
 
+* Msc science: Wageningen university and research, 2024.
 * Bsc science: HAN University of applied sciences, 2022.
-
 
 Work experience
 ======
-* 2023 -- In process. **Msc thesis** *WUR genetics department*. Wageningen. <br>With supervision from Mariana Silva I am laying the ground work for the aspar_kr
-  data sharing system for researchers in the field of *Aspergillus fumigatus*. During this
-  thesis I am contributing code to the FAIRDS project, a java programme to generate
-  excel templates and convert them into a linked data format.
+* 2024:  **Msc internship** *MPI bioinformatics department*. Potsdam. <br> With supervision from Dirk Walther, I set up a Snakemake pipeline for the prediction of protein-protein complexes.
+* 2023:  **Msc thesis** *WUR genetics department*. Wageningen. <br>With supervision from Mariana Silva I am laying the ground work for the aspar_kr data sharing system for researchers in the field of *Aspergillus fumigatus*. During this thesis I am contributing code to the FAIRDS project, a java programme to generate excel templates and convert them into a linked data format.
 * 2022: **Bsc Thesis** *FAU Lehrstuhl für Zellbiologie.* Erlangen, Germany. Grade: 8. <br>Internship supervised by Dr Peter-Louis Plaumann. Worked on a pipeline to phenotype
   photosynthetic performance of mutants of *Vitis vinifera* (grapevine) in a greenhouse
   setting, in this research I had to use the LICOR 6800 instrument. I have also worked on a
@@ -35,9 +32,10 @@ Work experience
   such as mixed models and PCA.
 
 # Skills
+
 ## Interpersonal
 
-Explaining
+Coaching
 :	I am able to help my colleagues with understanding statistical analysis methods and
 programming languages and help with solving computer issues. Examples: helping a
 colleague set up git version management, or helping to solve a python error.
@@ -51,7 +49,7 @@ Presentation
 $\mathrm{\LaTeX}$ and `quarto` to prepare reports and presentations. I like writing and presenting
 information to others.
 
-## Domain 
+## Domain
 
 Adaptable Programmer
 :	I am able to quickly pick up on new programming concepts and languages and apply them to solve problems. With R I can make statistical analyses and visualisations with a broad context: from architectural calculations to ecological modelling. I am able to use `R` not just for the creation of scripts, but also for making more complicated web programmes. With `python`, I am able to implement scripts to parse data, call command line programmes, write output and implement common bioinformatics  algorithms. I am also able to implement workflows in `snakemake`. I am comfortable with using java. In
