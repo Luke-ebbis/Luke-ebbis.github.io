@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sibbe Bakker"
 title_separator          : "-"
 name                     : &name "Sibbe Bakker"
-description              : &description "Bioinformatics student."
+description              : &description "Bioinformatics graduate."
 url                      : https://Luke-ebbis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Luke-ebbis/Luke-ebbis.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sibbe Bakker"
   avatar           : "sibbe-bakker.jpeg"
-  bio              : "Bioinformatics student."
+  bio              : "Bioinformatics graduate."
   location         : "Elst (Gelderland)"
   employer         : "Wageningen university"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "sibbe.bakker@wur.nl"
+  email            : "sibbe.l.bakker@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Sibbe-Bakker"
   uri              :
   bitbucket        :
@@ -113,10 +113,13 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  mastodon         : "https://mastodon.social/@sibbe"
   wikipedia        :
   gitlab           : sibbe.bakker
 
+mastodon:
+- username: sibbe
+  instance: mastodon.social
 
 # Reading Files
 include:
