@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sibbe Bakker"
 title_separator          : "-"
 name                     : &name "Sibbe Bakker"
-description              : &description "Bioinformatics graduate."
+description              : &description "Bioinformatics, bits and bobs."
 url                      : https://Luke-ebbis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Luke-ebbis/Luke-ebbis.github.io"
@@ -182,6 +182,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  events:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -216,6 +219,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      author_profile: false
+      share: true
+      layout: single
   # _talks
   - scope:
       path: ""
