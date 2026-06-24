@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 I am a graduated bioinformatician with a background in plant biology open for work in work environmental sciences or ecology.
-I have experience working in various fields in biology such as plant physology, protein biology and genomics..
+I have experience working in various fields in biology such as plant physology, protein biology and genomics.
 <!-- Recently I have finished my internship project on the prediction of protein -->
 <!-- complexes under supervision of [Dirk -->
 <!-- Walther](https://www.mpimp-golm.mpg.de/9657/Dirk_Walther) at the Max Planck -->
