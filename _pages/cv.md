@@ -19,6 +19,8 @@ Education
 
 Work experience
 ======
+
+* 2025:  **Discovering new oomycetic compounds** Utrecht University. Utrecht. <br> Together with from Michael Seidl, we worked on a project to uncover new oomycetic compounds for BASF.
 * 2024:  **Msc internship** *MPI bioinformatics department*. Potsdam. <br> With supervision from Dirk Walther, I set up a Snakemake pipeline for the prediction of protein-protein complexes.
 * 2023:  **Msc thesis** *WUR genetics department*. Wageningen. <br>With supervision from Mariana Silva I am laying the ground work for the aspar_kr data sharing system for researchers in the field of *Aspergillus fumigatus*. During this thesis I am contributing code to the FAIRDS project, a java programme to generate excel templates and convert them into a linked data format.
 * 2022: **Bsc Thesis** *FAU Lehrstuhl für Zellbiologie.* Erlangen, Germany. Grade: 8. <br>Internship supervised by Dr Peter-Louis Plaumann. Worked on a pipeline to phenotype
@@ -52,12 +54,12 @@ information to others.
 ## Domain
 
 Adaptable Programmer
-:	I am able to quickly pick up on new programming concepts and languages and apply them to solve problems. With R I can make statistical analyses and visualisations with a broad context: from architectural calculations to ecological modelling. I am able to use `R` not just for the creation of scripts, but also for making more complicated web programmes. With `python`, I am able to implement scripts to parse data, call command line programmes, write output and implement common bioinformatics  algorithms. I am also able to implement workflows in `snakemake`. I am comfortable with using java. In
-my free time study I `rust`.
+:	I am able to quickly pick up on new programming concepts and languages and apply them to solve problems. With R I can make statistical analyses and visualisations with a broad context: from architectural calculations to ecological modelling. I am able to use `R` not just for the creation of scripts, but also for making more complicated web programmes. With `python`, I am able to implement scripts to parse data, call command line programmes, write output and implement common bioinformatics  algorithms. I am also able to implement workflows in `snakemake`. I am comfortable with using java.
 
 
 Talks
 ======
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
